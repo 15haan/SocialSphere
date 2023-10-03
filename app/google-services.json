@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73235669310",
+    "project_id": "sharesphere-2fcfe",
+    "storage_bucket": "sharesphere-2fcfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73235669310:android:6ddfc06a4c08aebd20cc6f",
+        "android_client_info": {
+          "package_name": "com.example.sharesphere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73235669310-nfc8url1i5k3lsvkiro4f92tas3llg4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sharesphere",
+            "certificate_hash": "6038e5c9fc3dbb2cb330ac81010fb33a0ac8d238"
+          }
+        },
+        {
+          "client_id": "73235669310-2pqemcp4o69cklcv26n3vf2vcrdbptml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnjV96fseJ-xWKMQmJcZ6CvsExxsrSMoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73235669310-2pqemcp4o69cklcv26n3vf2vcrdbptml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
